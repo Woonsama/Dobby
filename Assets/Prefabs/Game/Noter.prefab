@@ -1,0 +1,96 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &8824787429928537695
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8824787429928537692}
+  - component: {fileID: 8824787429928537693}
+  - component: {fileID: 8824787429928537694}
+  - component: {fileID: 8824787429928537691}
+  m_Layer: 0
+  m_Name: Noter
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8824787429928537692
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8824787429928537695}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &8824787429928537693
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8824787429928537695}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dd1bee2827e80435e8514143783ff189, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  data:
+    notes: []
+  bpm: 240
+  noting: 0
+  longnote: 0
+  audio: {fileID: 0}
+  checkers:
+  - {fileID: 0}
+  - {fileID: 0}
+  interval_recog: 0.0625
+  creating_interval: 0.0625
+--- !u!114 &8824787429928537694
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8824787429928537695}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d1e4b5a8424494d9496d805c81001dac, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  noter: {fileID: 8824787429928537693}
+  input: test.json
+  filename: test.json
+--- !u!114 &8824787429928537691
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8824787429928537695}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d0944a099d27c48e2bf29fd9e0f140f9, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  prefab_notes:
+  - {fileID: 4219788287268415676, guid: 822cba24be1bd4df09135fed75aa332c, type: 3}
+  - {fileID: 5900904768350084588, guid: a4c8410b03cf7459db854c7e2146a249, type: 3}
+  - {fileID: 4219788287268415676, guid: 822cba24be1bd4df09135fed75aa332c, type: 3}
+  - {fileID: 5900904768350084588, guid: a4c8410b03cf7459db854c7e2146a249, type: 3}
+  prefab_connector: {fileID: 973834859443791157, guid: a6728e957a5a54f3391d53b0275ab529,
+    type: 3}
+  noter: {fileID: 8824787429928537693}
+  audio: {fileID: 0}
+  checker0: {fileID: 0}
+  checker1: {fileID: 0}

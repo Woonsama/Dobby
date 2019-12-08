@@ -1,0 +1,265 @@
+
+Character.png
+size: 1830,1521
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Hit_1
+  rotate: false
+  xy: 1732, 490
+  size: 86, 119
+  orig: 137, 371
+  offset: 0, 128
+  index: -1
+Hit_2
+  rotate: false
+  xy: 1215, 188
+  size: 102, 228
+  orig: 137, 371
+  offset: 35, 72
+  index: -1
+Hit_3
+  rotate: false
+  xy: 1610, 602
+  size: 59, 371
+  orig: 137, 371
+  offset: 33, 0
+  index: -1
+attack01
+  rotate: false
+  xy: 444, 911
+  size: 503, 608
+  orig: 1002, 1002
+  offset: 302, 344
+  index: -1
+attack02
+  rotate: false
+  xy: 2, 698
+  size: 440, 821
+  orig: 1002, 1002
+  offset: 239, 53
+  index: -1
+attack03
+  rotate: false
+  xy: 2, 33
+  size: 371, 663
+  orig: 1002, 1002
+  offset: 268, 63
+  index: -1
+attack04
+  rotate: true
+  xy: 375, 12
+  size: 306, 407
+  orig: 1002, 1002
+  offset: 350, 58
+  index: -1
+back_cloth
+  rotate: false
+  xy: 1671, 611
+  size: 104, 148
+  orig: 104, 148
+  offset: 0, 0
+  index: -1
+back_hair
+  rotate: false
+  xy: 375, 320
+  size: 417, 342
+  orig: 419, 347
+  offset: 1, 4
+  index: -1
+back_hair(back)
+  rotate: false
+  xy: 949, 1002
+  size: 417, 363
+  orig: 419, 370
+  offset: 1, 4
+  index: -1
+body
+  rotate: true
+  xy: 1349, 347
+  size: 231, 305
+  orig: 231, 305
+  offset: 0, 0
+  index: -1
+costume_bottom
+  rotate: true
+  xy: 1699, 1137
+  size: 241, 88
+  orig: 241, 88
+  offset: 0, 0
+  index: -1
+costume_top
+  rotate: true
+  xy: 1191, 418
+  size: 222, 156
+  orig: 222, 157
+  offset: 0, 1
+  index: -1
+eye_attacked
+  rotate: true
+  xy: 1656, 414
+  size: 186, 74
+  orig: 188, 76
+  offset: 1, 1
+  index: -1
+eye_attcking
+  rotate: false
+  xy: 1513, 33
+  size: 202, 118
+  orig: 204, 120
+  offset: 1, 1
+  index: -1
+eye_close
+  rotate: false
+  xy: 2, 16
+  size: 193, 15
+  orig: 195, 17
+  offset: 1, 1
+  index: -1
+eye_open
+  rotate: false
+  xy: 1309, 17
+  size: 202, 140
+  orig: 204, 142
+  offset: 1, 1
+  index: -1
+front_cloth
+  rotate: false
+  xy: 1701, 267
+  size: 104, 145
+  orig: 104, 145
+  offset: 0, 0
+  index: -1
+front_hair
+  rotate: false
+  xy: 444, 664
+  size: 496, 245
+  orig: 511, 245
+  offset: 15, 0
+  index: -1
+head
+  rotate: true
+  xy: 1368, 975
+  size: 390, 329
+  orig: 392, 331
+  offset: 1, 1
+  index: -1
+l_arm
+  rotate: false
+  xy: 1141, 8
+  size: 166, 178
+  orig: 166, 178
+  offset: 0, 0
+  index: -1
+l_cloth
+  rotate: false
+  xy: 1777, 818
+  size: 51, 129
+  orig: 51, 129
+  offset: 0, 0
+  index: -1
+l_ear
+  rotate: true
+  xy: 942, 642
+  size: 206, 423
+  orig: 206, 423
+  offset: 0, 0
+  index: -1
+l_ear(back)
+  rotate: true
+  xy: 794, 193
+  size: 202, 419
+  orig: 206, 423
+  offset: 2, 2
+  index: -1
+l_hair
+  rotate: true
+  xy: 949, 850
+  size: 150, 402
+  orig: 150, 402
+  offset: 0, 0
+  index: -1
+l_leg
+  rotate: false
+  xy: 1717, 12
+  size: 108, 139
+  orig: 108, 140
+  offset: 0, 1
+  index: -1
+l_weapon_01
+  rotate: true
+  xy: 1319, 159
+  size: 186, 192
+  orig: 190, 194
+  offset: 2, 1
+  index: -1
+l_weapon_02
+  rotate: true
+  xy: 1699, 949
+  size: 186, 104
+  orig: 190, 106
+  offset: 2, 1
+  index: -1
+ponytail
+  rotate: true
+  xy: 949, 1367
+  size: 152, 676
+  orig: 152, 676
+  offset: 0, 0
+  index: -1
+r_arm
+  rotate: true
+  xy: 1627, 1380
+  size: 139, 171
+  orig: 139, 171
+  offset: 0, 0
+  index: -1
+r_cloth
+  rotate: false
+  xy: 1777, 687
+  size: 51, 129
+  orig: 51, 129
+  offset: 0, 0
+  index: -1
+r_ear
+  rotate: true
+  xy: 794, 397
+  size: 243, 395
+  orig: 243, 395
+  offset: 0, 0
+  index: -1
+r_ear(back)
+  rotate: false
+  xy: 1367, 580
+  size: 241, 393
+  orig: 243, 395
+  offset: 1, 1
+  index: -1
+r_hair
+  rotate: true
+  xy: 784, 2
+  size: 189, 355
+  orig: 189, 355
+  offset: 0, 0
+  index: -1
+r_leg
+  rotate: false
+  xy: 1701, 153
+  size: 106, 112
+  orig: 106, 112
+  offset: 0, 0
+  index: -1
+r_weapon_01
+  rotate: false
+  xy: 1513, 153
+  size: 186, 192
+  orig: 190, 194
+  offset: 2, 1
+  index: -1
+r_weapon_02
+  rotate: true
+  xy: 1671, 761
+  size: 186, 104
+  orig: 190, 106
+  offset: 2, 1
+  index: -1

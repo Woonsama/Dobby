@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Boss
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: BackGround
+    uniqueID: 3613884847
+    locked: 0
+  - name: Entity
+    uniqueID: 552928699
+    locked: 0
+  - name: TouchArea
+    uniqueID: 526044361
+    locked: 0
+  - name: Note
+    uniqueID: 3437617793
+    locked: 0
+  - name: cave_front
+    uniqueID: 3778121025
+    locked: 0
+  - name: Effect
+    uniqueID: 3185807249
+    locked: 0
+  - name: UI
+    uniqueID: 2754685199
+    locked: 0

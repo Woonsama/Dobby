@@ -1,0 +1,202 @@
+
+Dragon.png
+size: 1942,1416
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: true
+  xy: 547, 610
+  size: 462, 410
+  orig: 464, 412
+  offset: 1, 1
+  index: -1
+eye_close
+  rotate: true
+  xy: 1896, 351
+  size: 138, 29
+  orig: 141, 31
+  offset: 1, 1
+  index: -1
+eye_die
+  rotate: false
+  xy: 1361, 72
+  size: 165, 61
+  orig: 168, 63
+  offset: 2, 1
+  index: -1
+eye_open
+  rotate: false
+  xy: 1528, 77
+  size: 141, 47
+  orig: 143, 49
+  offset: 1, 1
+  index: -1
+eye_skill
+  rotate: false
+  xy: 1185, 53
+  size: 174, 80
+  orig: 180, 86
+  offset: 3, 3
+  index: -1
+head
+  rotate: false
+  xy: 547, 221
+  size: 390, 387
+  orig: 392, 389
+  offset: 1, 1
+  index: -1
+l_arm_low
+  rotate: false
+  xy: 409, 2
+  size: 295, 206
+  orig: 297, 208
+  offset: 1, 1
+  index: -1
+l_arm_up
+  rotate: false
+  xy: 1531, 126
+  size: 158, 289
+  orig: 160, 291
+  offset: 1, 1
+  index: -1
+l_horn_default
+  rotate: true
+  xy: 939, 135
+  size: 298, 331
+  orig: 302, 333
+  offset: 2, 1
+  index: -1
+l_horn_skill
+  rotate: true
+  xy: 1315, 740
+  size: 333, 364
+  orig: 338, 370
+  offset: 2, 3
+  index: -1
+l_leg_low
+  rotate: true
+  xy: 706, 26
+  size: 193, 226
+  orig: 195, 228
+  offset: 1, 1
+  index: -1
+l_leg_up
+  rotate: true
+  xy: 1691, 227
+  size: 262, 203
+  orig: 264, 205
+  offset: 1, 1
+  index: -1
+l_wing
+  rotate: false
+  xy: 2, 642
+  size: 543, 430
+  orig: 543, 430
+  offset: 0, 0
+  index: -1
+mouth_default
+  rotate: false
+  xy: 934, 26
+  size: 249, 107
+  orig: 253, 109
+  offset: 2, 1
+  index: -1
+mouth_die
+  rotate: false
+  xy: 1272, 135
+  size: 232, 68
+  orig: 234, 70
+  offset: 1, 1
+  index: -1
+neck
+  rotate: true
+  xy: 1323, 1075
+  size: 339, 367
+  orig: 344, 369
+  offset: 3, 1
+  index: -1
+paper
+  rotate: false
+  xy: 2, 2
+  size: 405, 206
+  orig: 407, 208
+  offset: 1, 1
+  index: -1
+paper_skill
+  rotate: true
+  xy: 1692, 975
+  size: 439, 239
+  orig: 445, 245
+  offset: 3, 3
+  index: -1
+r_arm_low
+  rotate: true
+  xy: 1681, 730
+  size: 243, 259
+  orig: 245, 261
+  offset: 1, 1
+  index: -1
+r_arm_up
+  rotate: false
+  xy: 1676, 491
+  size: 264, 237
+  orig: 266, 239
+  offset: 1, 1
+  index: -1
+r_horn_default
+  rotate: false
+  xy: 959, 435
+  size: 374, 286
+  orig: 378, 288
+  offset: 2, 1
+  index: -1
+r_horn_skill
+  rotate: false
+  xy: 913, 1098
+  size: 408, 316
+  orig: 413, 323
+  offset: 3, 3
+  index: -1
+r_leg_low
+  rotate: true
+  xy: 1691, 35
+  size: 190, 216
+  orig: 193, 218
+  offset: 1, 1
+  index: -1
+r_leg_up
+  rotate: false
+  xy: 1272, 205
+  size: 257, 210
+  orig: 260, 213
+  offset: 2, 2
+  index: -1
+r_wing
+  rotate: false
+  xy: 2, 210
+  size: 543, 430
+  orig: 543, 430
+  offset: 0, 0
+  index: -1
+stick
+  rotate: false
+  xy: 1335, 417
+  size: 339, 321
+  orig: 341, 323
+  offset: 1, 1
+  index: -1
+stick_skill
+  rotate: true
+  xy: 959, 723
+  size: 373, 354
+  orig: 379, 361
+  offset: 3, 4
+  index: -1
+tail
+  rotate: false
+  xy: 2, 1074
+  size: 909, 340
+  orig: 909, 340
+  offset: 0, 0
+  index: -1
